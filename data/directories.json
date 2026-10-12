@@ -5236,5 +5236,14 @@
     "pricing": null,
     "category": "👥 Community",
     "description": "Southeast Asian startup ecosystem platform covering tech news, events, funding, and community connections."
+  },
+  {
+    "name": "Altimateguide",
+    "url": "https://altimateguide.com/request-inclusion",
+    "domain_rating": null,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Manually reviewed tools directory; free listing via a SayAbout.Us Wall of Love or an on-site badge, or $14.99 one-time."
   }
 ]
